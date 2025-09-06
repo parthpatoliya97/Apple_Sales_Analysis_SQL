@@ -1,7 +1,6 @@
 ## SQL Project - Apple Sales Analysis
 
-![apple_store](https://images.indianexpress.com/2024/04/apple-store.jpg?w=414)
-
+![apple_store](https://images.adsttc.com/media/images/669e/cb06/c8b7/c809/c2d7/581f/newsletter/apple-stores_1.jpg?1721682700)
 #### 1.Find the number of stores in each country
 ```sql
 SELECT 
