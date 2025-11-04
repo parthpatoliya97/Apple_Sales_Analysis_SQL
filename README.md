@@ -1,6 +1,11 @@
 ## SQL Project - Apple Sales Analysis
 
 ![apple_store](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/apple-store-with-apple-logo-in-the-background.jpg)
+
+## ER Diagram :-
+![ER Diagram](<img width="1284" height="426" alt="image" src="https://github.com/user-attachments/assets/eb38eb99-8aac-4ecf-913b-f3bcb89f24f7" />
+)
+
 #### 1.Find the number of stores in each country
 ```sql
 SELECT 
