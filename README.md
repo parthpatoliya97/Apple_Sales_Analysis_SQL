@@ -4,7 +4,7 @@
 
 ## ER Diagram :-
 ![ER Diagram](https://github.com/parthpatoliya97/Apple_Sales_Analysis_SQL/blob/main/ER%20Diagram.png?raw=true)
-)
+
 
 #### 1.Find the number of stores in each country
 ```sql
