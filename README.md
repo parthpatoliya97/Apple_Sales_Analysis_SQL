@@ -5,6 +5,28 @@
 ## ER Diagram :-
 ![ER Diagram](https://github.com/parthpatoliya97/Apple_Sales_Analysis_SQL/blob/main/ER%20Diagram.png?raw=true)
 
+---------------------------------------------------------------------------------------------------------------------
+### Key Objectives & Insights Explored :-
+
+1.) Country-wise performance – Analyzed store distribution and total units sold per region.
+
+2.) Store-level insights – Evaluated sales patterns, store growth, and yearly performance.
+
+3.) Warranty claim analysis – Identified warranty claims based on store, country, and product type.
+
+4.) Warranty void & repair trends – Examined the % of paid repairs and claims filled within 180 days of sale.
+
+5.) Product analytics – Tracked unique products launched each year, their sales performance, and category-level trends.
+
+6.) Best and least performing days – Found top-selling days per store and least-performing products per country.
+
+7.) Yearly growth ratio per store – Measured store growth and overall business momentum across years.
+
+8.) Correlation analysis – Explored the relationship between product price and warranty claims.
+
+9.) Running totals and trends – Built monthly running total sales and launch-period-based sales trends for business forecasting.
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 #### 1.Find the number of stores in each country
 ```sql
